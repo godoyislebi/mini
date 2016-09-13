@@ -1,0 +1,96 @@
+*{
+	font-family: 'Ruda', sans-serif;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+.header{
+	background: url(../img/tumblr_nyetg4dE511u7gnm9o1_500.gif);
+	height: 400px;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.a-none-decoration{
+	text-decoration: none;
+}
+
+.text-white{
+	color:white;
+}
+
+.text-black{
+	color:black;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.sumate{
+	background: white;
+	width: 80px;
+	height: 35px;
+	border-radius: 5px;
+	margin-top: 20px;
+}
+
+.ml-20{
+	margin-left: 20px;
+}
+
+nav{
+	margin-left: 400px;
+}
+
+.foto img{
+	width: 300px;
+	height: 300px;
+	margin-left: 20px;
+	margin-top:30px;
+
+}
+.mt-40{
+	margin-top: 40px;
+}
+
+.centrar{
+	margin:0 auto;
+}
+
+.tamaño14{
+	font-size: 14px;
+}
+
+.ejemplo{
+	background:black;
+	margin-top: 30px;
+	margin-left: 30px;
+
+}
+
+.fondomorado{
+	background: #330a35;
+}
+
+.foto .morri{
+	width: 150px;
+	height: 300px;
+}
+
+.foto .uno{
+	margin-left: 23px;
+}
+
+.foto .dos{
+	margin-right: 23px;
+}
+
+.footer{
+	background: black;
+	height:60px;
+
+}
